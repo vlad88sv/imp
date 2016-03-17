@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuracion [
+	<!ELEMENT ruta ANY> 
+	<!ATTLIST ruta id ID #REQUIRED>
+]>
+<configuracion>
+<ruta id="plantillas">C:\Users\Vladimir\Documents\Codigo\IMP\PLA\</ruta>
+<ruta id="supervision">C:\Users\Vladimir\Documents\Codigo\IMP\SUP\</ruta>
+<ruta id="respaldos">C:\Users\Vladimir\Documents\Codigo\IMP\RES\</ruta>
+<depuracion>no</depuracion>
+</configuracion>
